@@ -2,7 +2,7 @@
 **Rinesa Jakupi**  
 *Software Developer | Graphic Designer | IT Trainer at NGO “Liza-R”*  
 
-I am a passionate software developer and graphic designer with hands-on experience in programming, web development, and design tools. With a strong foundation in teaching IT and graphic design, I strive to empower emerging professionals and help them enhance their technical and creative skills. I am constantly learning and expanding my skillset to stay ahead in the rapidly evolving tech landscape.
+I am a dedicated software developer and graphic designer with strong hands-on experience in various programming languages, web development frameworks, and design tools. Alongside my technical expertise, I also have a solid background in teaching IT, Graphic Design, and Entrepreneurship, helping emerging professionals build their careers. I am constantly expanding my skill set, particularly in back-end development and advanced design tools.
 
 ---
 
@@ -10,21 +10,21 @@ I am a passionate software developer and graphic designer with hands-on experien
 
 **IT Trainer - NGO “Liza-R”**  
 *July 2024 – Present | Gjilan, Kosovo*  
-- Teaching Professional Courses in IT, Graphic Design, and Entrepreneurship.  
-- Preparing and delivering lessons for emerging professionals in the IT field.  
-- Assisting students in practical projects and providing mentorship in technology and design tools.
+- Teaching Professional Courses in IT Essentials, Microsoft Office Suite, and Adobe Creative Suite (Illustrator, Photoshop, InDesign).  
+- Developing course materials and practical exercises to suit diverse learning needs.  
+- Mentoring students and assisting them in enhancing their technical and design skills.
 
 **Web Development Intern - OutKos Academy**  
 *Feb – Aug 2023 | Prishtina, Kosovo*  
-- Contributed to the development of interactive web applications using HTML5, CSS3, and ReactJS.  
-- Assisted in creating responsive designs and optimizing web applications for performance.  
-- Managed version control using Git and collaborated through GitHub repositories.
+- Developed interactive web applications using HTML5, CSS3, JavaScript, and ReactJS.  
+- Implemented responsive designs, ensuring cross-browser compatibility.  
+- Contributed to Git-based version control and repository management on GitHub.
 
 **Back-End Development Intern - IT EDUCATION (itedu)**  
 *Nov 2022 – Jan 2023 | Gjilan, Kosovo*  
-- Worked with the MERN stack (MongoDB, Express.js, React.js, Node.js) to build and deploy small-scale applications.  
-- Focused on RESTful API development, user authentication, and database management.  
-- Gained hands-on experience with Postman for API testing and improved understanding of middleware and asynchronous programming.
+- Gained hands-on experience with the MERN stack (MongoDB, Express.js, React.js, Node.js).  
+- Developed and tested RESTful APIs focusing on user authentication, data validation, and error handling.  
+- Learned best practices for database management and participated in team-based web application projects.
 
 ---
 
@@ -36,10 +36,10 @@ I am a passionate software developer and graphic designer with hands-on experien
 ---
 
 ## 📑 Certifications & Training:
-- **Web Development – OutKos Company**  
+- **Web Development – OutKos Academy**  
   *Feb – Aug 2023 | Prishtina, Kosovo*  
 - **Back-End Development – IT EDUCATION (itedu)**  
-  *Nov 2022 – Jan 2023 | Gjilan, Kosovo*  
+  *Nov 2022 – Jan 2023 | Gjilan, Kosovo*
 
 ---
 
@@ -78,7 +78,7 @@ Windows, iOS
 
 ---
 
-## 💫 GitHub Stats:
+## 💻 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RinesaJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RinesaJ&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RinesaJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
