@@ -1,10 +1,5 @@
 # 💫 About Me:
 **Rinesa Jakupi**  
-*Software Developer | Graphic Designer | IT Trainer at NGO “Liza-R”*  
-
-I am a dedicated software developer and graphic designer with strong hands-on experience in various programming languages, web development frameworks, and design tools. Alongside my technical expertise, I also have a solid background in teaching IT, Graphic Design, and Entrepreneurship, helping emerging professionals build their careers. I am constantly expanding my skill set, particularly in back-end development and advanced design tools.
-
----
 
 ## 🏆 Professional Experience:
 
